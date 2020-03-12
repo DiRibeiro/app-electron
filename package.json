@@ -2,7 +2,7 @@
   "name": "app-electron",
   "version": "1.0.0",
   "description": "Iniciando em electron",
-  "main": "src/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
